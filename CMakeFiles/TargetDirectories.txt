@@ -1,0 +1,4 @@
+/home/w/Documents/Galaxy/build/CMakeFiles/Galaxian.dir
+/home/w/Documents/Galaxy/build/CMakeFiles/copy_assets.dir
+/home/w/Documents/Galaxy/build/CMakeFiles/edit_cache.dir
+/home/w/Documents/Galaxy/build/CMakeFiles/rebuild_cache.dir
